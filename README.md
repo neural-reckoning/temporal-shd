@@ -9,7 +9,6 @@ Variant of the SHD dataset with only timing information retained.
 ```bash
 # Clone this repository
 git clone https://github.com/yourusername/temporal-shd.git
-cd temporal-shd
 ```
 ## Download
 
