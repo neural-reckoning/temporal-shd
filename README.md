@@ -13,6 +13,6 @@ cd temporal-shd
 ```
 ## Download
 
-You can download the dataset from Zenodo:
+You can directly download the dataset from Zenodo:
 
 [![Zenodo Dataset](https://zenodo.org/badge/DOI/10.5281/zenodo.16153275.svg)](https://zenodo.org/records/16153275)
