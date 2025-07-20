@@ -10,6 +10,7 @@ Variant of the SHD dataset with only timing information retained.
 # Clone this repository
 git clone https://github.com/yourusername/temporal-shd.git
 ```
+In timingshdLoad.ipynb, you can directly load the dataset via create_dataloaders, which is based on the PyTorch framework.
 ## Download
 
 You can directly download the dataset from Zenodo:
