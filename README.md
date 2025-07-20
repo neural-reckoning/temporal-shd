@@ -1,5 +1,5 @@
 # temporal-shd
-Variant of the SHD dataset with only timing information retained.
+Variant of the SHD/SSC dataset with only timing information retained.
 
 
 
