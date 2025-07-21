@@ -8,7 +8,7 @@ Variant of the SHD/SSC dataset with only timing information retained.
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/temporal-shd.git
+git clone https://github.com/neural-reckoning/temporal-shd.git
 ```
 In timingshdLoad.ipynb, you can directly load the dataset via create_dataloaders, which is based on the PyTorch framework.
 ## Download
