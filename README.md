@@ -11,6 +11,9 @@ Variant of the SHD/SSC dataset with only timing information retained.
 git clone https://github.com/neural-reckoning/temporal-shd.git
 ```
 You could follow the timingshdLoad.ipynb to download the temporal SHD/SSC, and you can directly load the dataset via create_dataloaders, which is based on the PyTorch framework.
+
+You could follow the code in the `code/` directory to reproduce the experimental training and evaluation results reported in this work.
+
 ## Download
 
 You can directly download the dataset from Zenodo:
