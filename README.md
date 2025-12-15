@@ -1,4 +1,10 @@
-# temporal-shd
+# # Exploiting heterogeneous delays for efficient computation in low-bit neural networks
+
+Ziqiao Yu, Pengfei Sun, Dan F.M. Goodman
+
+Imperial College London
+
+
 Variant of the SHD/SSC dataset with only timing information retained.
 
 
