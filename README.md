@@ -1,6 +1,6 @@
 # # Exploiting heterogeneous delays for efficient computation in low-bit neural networks
 
-Ziqiao Yu, Pengfei Sun, Dan F.M. Goodman
+Ziqiao Yu, Pengfei Sun, Danyal Akarca,  Dan F.M. Goodman
 
 Imperial College London
 
