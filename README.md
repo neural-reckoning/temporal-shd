@@ -1,4 +1,4 @@
-# # Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks
+## Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks
 
 Ziqiao Yu, Pengfei Sun,  Dan F.M. Goodman
 
