@@ -25,3 +25,25 @@ You could follow the code in the `code/` directory to reproduce the experimental
 You can directly download the dataset from Zenodo:
 
 [![Zenodo Dataset](https://zenodo.org/badge/DOI/10.5281/zenodo.16153275.svg)](https://zenodo.org/records/16153275)
+
+## Paper
+
+**Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks**  
+Ziqiao Yu, Pengfei Sun, Dan F. M. Goodman  
+*Neuromorphic Computing and Engineering* (2026)  
+DOI: [10.1088/2634-4386/ae46d5](https://doi.org/10.1088/2634-4386/ae46d5)
+
+- [Paper page](https://iopscience.iop.org/article/10.1088/2634-4386/ae46d5)
+- [Direct PDF](https://iopscience.iop.org/article/10.1088/2634-4386/ae46d5/pdf)
+- [arXiv preprint](https://arxiv.org/abs/2507.16043)
+
+### Citation
+
+```bibtex
+@article{yu2026beyond,
+  title={Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks},
+  author={Yu, Ziqiao and Sun, Pengfei and Goodman, Dan F. M.},
+  journal={Neuromorphic Computing and Engineering},
+  year={2026},
+  doi={10.1088/2634-4386/ae46d5}
+}
