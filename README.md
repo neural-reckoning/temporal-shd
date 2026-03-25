@@ -34,16 +34,21 @@ Ziqiao Yu, Pengfei Sun, Dan F. M. Goodman
 DOI: [10.1088/2634-4386/ae46d5](https://doi.org/10.1088/2634-4386/ae46d5)
 
 - [Paper page](https://iopscience.iop.org/article/10.1088/2634-4386/ae46d5)
-- [Direct PDF](https://iopscience.iop.org/article/10.1088/2634-4386/ae46d5/pdf)
-- [arXiv preprint](https://arxiv.org/abs/2507.16043)
 
 ### Citation
 
 ```bibtex
-@article{yu2026beyond,
-  title={Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks},
-  author={Yu, Ziqiao and Sun, Pengfei and Goodman, Dan F. M.},
-  journal={Neuromorphic Computing and Engineering},
-  year={2026},
-  doi={10.1088/2634-4386/ae46d5}
+@article{Yu_2026,
+doi = {10.1088/2634-4386/ae46d5},
+url = {https://doi.org/10.1088/2634-4386/ae46d5},
+year = {2026},
+month = {feb},
+publisher = {IOP Publishing},
+volume = {6},
+number = {1},
+pages = {014016},
+author = {Yu, Ziqiao and Sun, Pengfei and Goodman, Dan F M},
+title = {Beyond rate coding: surrogate gradients enable spike timing learning in spiking neural networks},
+journal = {Neuromorphic Computing and Engineering},
 }
+
